@@ -18,7 +18,7 @@ The **Reviews App** is a conceptual prototype for a wearable device interface th
 1. Clone the repository:
    ```sh
    git clone https://github.com/gandanimal/Reviews_app.git
-   ```s
+   
 2. Open `main_menu.html` in your browser.
 
 ## Future Improvements (Hypothetical)
